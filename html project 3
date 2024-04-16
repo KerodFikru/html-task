@@ -1,11 +1,17 @@
 <!DOCTYPE html>
 <head>
-      <title>HTML PROJECT THREE</title>
+      <title>HTML PROJECT TWO </title>
 </head>
 <body>
-      <h1><u>HTML PROJECT THREE</u></h1>
+      <h1><u>HTML PROJECT TWO</u></h1>
       <a href="https://m.facebook.com/"><img src="https://www.facebook.com/images/fb_icon_325x325.png" width="300" alt="image"></a>
       <table style="border:solid" border="1" width="300px" height="50px" align="center">
+            <p>
+                  <a href="https://www.instagram.com">This Word </a> is a link to Instagram.</p>
+                  <ul>
+                        <li> ITEM 01</li>
+                        <li> ITEM 02</li>
+                  </ul>
             <tr><td>Head 01</td><td>Head 02</td></tr><tr><td>Title 01</td><td>Title 02</td></tr>
       </table>
 </body>
